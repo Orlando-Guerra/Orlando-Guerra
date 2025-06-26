@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
-**Orlando-Guerra/Orlando-Guerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Orlando Guerra y soy un Ingeniero de Sistemas con interés en el desarrollo de soluciones tecnológicas eficientes y funcionales. Apasionado por la creación de aplicaciones web, la automatización de procesos y el aprendizaje continuo. 
 
-Here are some ideas to get you started:
+Tengo conocimientos en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>C++</li>
+  <li>PHP</li>
+  <li>Python</li>
+  <li>Unity</li>
+  <li>Visual Studio Code</li>
+  <li>PhpMyAdmin</li>
+  <li>Saint</li>
+  <li>NetApp</li>
+  <li>MySQL</li>
+  <li>PostgreSQL</li>
+  <li>Windows</li>
+  <li>Linux</li>
+  <li>Zend</li>
+  <li>Django</li>
+  <li>Laravel</li>
+</ul>
+
+
