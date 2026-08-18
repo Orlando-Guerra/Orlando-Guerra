@@ -11,6 +11,9 @@ Tengo conocimientos en:
   <li>C++</li>
   <li>PHP</li>
   <li>Python</li>
+  <li>Go</li>
+  <li>Odoo</li>
+  <li>Laravel</li>
   <li>Unity</li>
   <li>Visual Studio Code</li>
   <li>PhpMyAdmin</li>
@@ -23,6 +26,12 @@ Tengo conocimientos en:
   <li>Zend</li>
   <li>Django</li>
   <li>Laravel</li>
+  <li>Docker</li>
+  <li>Lovable</li>
+  <li>Supabase</li>
+  <li>Bootstrap</li>
+  <li>Astro</li>
+  <li>React</li>
 </ul>
 
 
